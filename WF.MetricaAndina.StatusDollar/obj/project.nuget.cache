@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvrq48lg+xDOvK71i31AqBtSYUmW7oAzuhqUbCcrSZDr66ZEX94DnfTeHZw2kQ5rJ0XAe9x/uo+munGyr8wl6g==",
+  "success": true,
+  "projectFilePath": "D:\\proyecto\\window-form-metricaAndina\\WF.MetricaAndina.StatusDollar\\WF.MetricaAndina.StatusDollar\\WF.MetricaAndina.StatusDollar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terry\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
